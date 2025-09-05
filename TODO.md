@@ -13,16 +13,18 @@
   + Chess
   + Pong
   + Sudoku (+solver)
+
 + File explorer
   + Image viewer
   + Notepad app
   + TODO app
   + Task manager
-  + BUlk file rename app
+  + Bulk file rename app
   + Audio Visualizer
   + Calendar
   + Pait
   + Calculator
+
 + Convertor data
   + Weight
   + Temperature
