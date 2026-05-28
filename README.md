@@ -1,7 +1,5 @@
 # 👋 Hi, I'm PinkiMan!
 
-![Header](https://raw.githubusercontent.com/PinkiMan/PinkiMan/main/header.png)
-
 🌱 **Currently learning:** Python, Machine Learning, Data Science  
 💻 **Technologies & Tools:** Python, NumPy, Pandas, scikit-learn, Git, Linux  
 🎯 **Goal:** Building projects that combine data, automation, and fun  
